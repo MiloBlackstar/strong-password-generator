@@ -6,5 +6,16 @@
 
 body {
   font-family: Roboto, Arial, Helvetica, sans-serif;
-  background: #1F2937;
+  background: #1C1C1C;
+  width: 100vw;
+  height: 100vh;
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  background-color: #1F2937;
+  padding: 2em;
 }

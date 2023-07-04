@@ -1,0 +1,29 @@
+header {
+  background: #1F2937;
+  border-bottom: 2px solid #2F3E53;
+  padding: 3em 3em 2em 3em;
+  width: 100%;
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+h1 span {
+  color: #4ADF86;
+}
+
+h4 {
+  margin-top: 0.75em;
+  color: #D5D4D8;
+  margin-bottom: 2em;
+}
+
+button {
+  background: #10B981;
+  color: #FFFFFF;
+  font-weight: bold;
+  border: none;
+  padding: 1em 1.75em;
+  border-radius: 4px;
+}
